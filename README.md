@@ -1,9 +1,9 @@
-### Hello I'm Adrien
+### 👋 Hello I'm Adrien
 
 
 #### 📊 Github Stats
 
-[![Adrien's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=AdrienBZH&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Adrien's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Adri1Code&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Tech Stack
 
